@@ -1,0 +1,11 @@
+{
+    "header": {
+        "title": "This Header EN !!!",
+        "body": "Welcome to React and react-i18next"
+    },
+
+    "home": {
+        "title": "This is EN Title!!!",
+        "body": "This is EN a body translation..."
+    }
+}

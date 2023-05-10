@@ -1,0 +1,11 @@
+{
+    "header": {
+        "title": "le tete est en FR !!!",
+        "body": "Bienveune a react i18next"
+    },
+
+    "home": {
+        "title": "Cela le tete de page!!!",
+        "body": "la est translation en FR!..."
+    }
+}
